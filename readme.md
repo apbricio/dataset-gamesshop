@@ -1,11 +1,11 @@
 # Características
 
-- A empresa foca apenas em fabricação de consoles, deixando a distribuição e venda para terceiros
-- Os produtos são vendidos globalmente
+- A empresa foca apenas em analisar balancetes de condomínios residenciais
+- Os balacentes são fornecidos no formato PDF
 
 # Objetivos
 
-- [ ] Consolidar todas as bases de terceiros para realizar uma análise
-- [ ] Transformar dados de vendasem informações relevantes para a fabricante
-- [ ] Quais são os produtos mais populares em cada país
-- [ ] Como otimizar o processo de transporte e logística até o momento da venda
+- [ ] Usar um prompt na IA ChatPDF para analisar os dados do balancete
+- [ ] Analisar as categorias de despesas citadas no relatório de janeiro de 2025
+- [ ] Verificar quais foram os maiores valores de despesas do mês e se o saldo é positivo ou negativo
+- [ ] Orientar o cliente (condomínio) sobre a necessidade de analisar as despesas e planejar o fluxo de caixa
